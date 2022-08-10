@@ -1,0 +1,365 @@
+obedj@LAPTOP-408O3DBJ MINGW64 ~ (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ BullseyeCoverageError.txt
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{3706315b-3288-11eb-8503-ee89253ee7c7}.TM.blf
+ NTUSER.DAT{3706315b-3288-11eb-8503-ee89253ee7c7}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{3706315b-3288-11eb-8503-ee89253ee7c7}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~ (master)
+$ cd onedrive
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive (master)
+$ ls
+ Attachments/   Coffre-fort.lnk*   Pictures/                        desktop.ini
+ Bureau/        Documents/        'Prise en main de OneDrive.pdf'
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive (master)
+$ cd bureau
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau (master)
+$ ls
+'Firefox Installer.exe'*   RTT25/
+'JUDE - PerScholas'/       SunriseCoal-Application.pdf
+"JUDE'S APPS"/             desktop.ini
+ Obedfiles/               'resume online_info.docx'
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau (master)
+$ cd rtt25
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25 (master)
+$ ls
+DEV/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25 (master)
+$ cd dev
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev (master)
+$ mkdir Labs
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev (master)
+$ ls
+'Javascript Syntax'/   Labs/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev (master)
+$ cd Labs
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ mkdir StarWarsTerminal
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ mkdir galaxy-far-far-away
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ ls
+StarWarsTerminal/  galaxy-far-far-away/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ cd galaxy-far-far-away/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ mkdir death_star
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ touch darth_vader.txt princess_leila.txt storm_trooper.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ ls
+darth_vader.txt  princess_leila.txt  storm_trooper.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cd../../
+bash: cd../../: No such file or directory
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cd..
+bash: cd..: command not found
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cd ../../
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ ls
+StarWarsTerminal/  galaxy-far-far-away/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ cd galaxy-far-far-away/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ mkdir tatooine
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/  tatooine/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd tatooine/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ touch luke.txt ben_kenobi.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ mkdir millenium_falcon
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ cd millenium_falcon/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine/millenium_falcon (master)
+$ touch han_solo.txt chewbaca.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine/millenium_falcon (master)
+$ ls
+chewbaca.txt  han_solo.txt
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ cd ../../../
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev (master)
+$ cd Labs/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ touch commands.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ ^C
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs (master)
+$ cd galaxy-far-far-away/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd tatooine/
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ ls
+ben_kenobi.txt  luke.txt  millenium_falcon/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ ^C
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ ^C
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$
+$ mv ben_kenobi.txt obi_wan.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ cd ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/  tatooine/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ ls
+darth_vader.txt  princess_leila.txt  storm_trooper.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cp storm_trooper.txt ../tatooine
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ ^C
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cd ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/  tatooine/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd tatooine/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ mv luke.txt obi_wan.txt millenium_falcon/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/tatooine (master)
+$ mv millenium_falcon ../galaxy-far-far-away/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/  millenium_falcon/  tatooine/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ mv millenium_falcon death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/  tatooine/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ mv princess_leila.txt millenium_falcon/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ ls
+darth_vader.txt  millenium_falcon/  storm_trooper.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cd millenium_falcon/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star/millenium_falcon (master)
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt  princess_leila.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star/millenium_falcon (master)
+$ rm obi_wan.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star/millenium_falcon (master)
+$ cd ../..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ mkdir yavin_4
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/  tatooine/  yavin_4/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ ls
+darth_vader.txt  millenium_falcon/  storm_trooper.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+
+$ mv millenium_falcon ../yavin_4/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ ^C
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cd ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd yavin_4/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4 (master)
+$ mkdir x_wing
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4 (master)
+$ ls
+millenium_falcon/  x_wing/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4 (master)
+$ cd millenium_falcon/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4/millenium_falcon (master)
+$ mv princess_leila.txt ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4/millenium_falcon (master)
+$ mv luke.txt ../x_wing/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4/millenium_falcon (master)
+$ls
+chewbaca.txt  han_solo.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4/millenium_falcon (master)
+$ cd ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4 (master)
+$ mv millenium_falcon/ x_wing/ ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/yavin_4 (master)
+$ cd ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ cd death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ mkdir tie_fighter_1 tie_fighter_2 tie_fighter_3
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ mv darth_vader.txt tie_fighter_1/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cp storm_trooper.txt tie_fighter_2
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cp storm_trooper.txt tie_fighter_3
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ mv tie_fighter_1 tie_fighter_2 tie_fighter_3 ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/death_star (master)
+$ cd ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ rm -r tie_fighter_2 tie_fighter_3
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ ls
+death_star/  millenium_falcon/  tatooine/  tie_fighter_1/  x_wing/  yavin_4/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$cd x_wing/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/x_wing (master)
+$ touch the_force.txt
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away/x_wing (master)
+$ cd ..
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ rm -r death_star/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ls
+millenium_falcon/  tatooine/  tie_fighter_1/  x_wing/  yavin_4/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ mv x_wing millenium_falcon yavin_4/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$ls
+tatooine/  tie_fighter_1/  yavin_4/
+
+obedj@LAPTOP-408O3DBJ MINGW64 ~/onedrive/bureau/rtt25/dev/Labs/galaxy-far-far-away (master)
+$
+
+
+
+
+
+
+
